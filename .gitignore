@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.egg-info/
+.env
+
+# Dados reais baixados manualmente (não versionar)
+data/MDIP_*.xlsx
+data/MDIP_*.xls
+data/*_real.*
